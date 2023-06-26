@@ -98,7 +98,7 @@ int main() {
         getline(cin, answer);
 
         if (stoi(answer) == surahNumber) {
-            cout << "Masha Allah, you are right!\n";
+            cout << "Ma sha Allah, you are right!\n";
             score++;
         } else {
             cout << "Sorry, that's incorrect. The correct answer is: " << surahNumber << "\n";
